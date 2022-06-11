@@ -8,8 +8,6 @@
   <li>Semantic HTML5 markup</li>
   <li>CSS custom properties</li>
   <li>Flexbox</li>
-  <li>Js</li>
-  <li>Weather API</li>
 </ul>
 
 <h2>Deployment</h2>
